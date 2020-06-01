@@ -3,6 +3,7 @@
   "version": "0.3.6",
   "description": "Svelte writable store with more.",
   "main": "src/storez.js",
+  "type": "module",
   "scripts": {
     "pretest": "npm run lint",
     "test": "npm run test:jest",
